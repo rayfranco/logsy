@@ -1,5 +1,7 @@
 # logsy
 
+[![Build Status](https://travis-ci.org/rayfranco/downup.svg?branch=master)](https://travis-ci.org/rayfranco/downup)
+
 Proxy factory for the `console` using ES6 Proxies (node + browser)
 
 ## Quickstart
