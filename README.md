@@ -1,6 +1,6 @@
 # logsy
 
-[![Build Status](https://travis-ci.org/rayfranco/logsy.svg?branch=master)](https://travis-ci.org/rayfranco/logsy)
+[![Build Status](https://travis-ci.org/rayfranco/logsy.svg?branch=master)](https://travis-ci.org/rayfranco/logsy) [![Version](https://img.shields.io/npm/v/logsy.svg)](https://www.npmjs.com/package/logsy)
 
 Proxy factory for the `console` using ES6 Proxies (node + browser)
 

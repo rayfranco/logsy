@@ -6,7 +6,8 @@
   "types": "dist/index.d.ts",
   "scripts": {
     "build": "tsc",
-    "test": "tsc && jest"
+    "test": "tsc && jest",
+    "prepublish": "npm test"
   },
   "author": "Franco Bouly <fbouly@gmail.com>",
   "license": "ISC",
